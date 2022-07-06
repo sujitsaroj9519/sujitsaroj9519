@@ -17,7 +17,8 @@
 </p>
 
 <h3 align="left">Languages </h3>
-<p align="left"> ![jas](https://user-images.githubusercontent.com/87306530/177516665-b1b6cb6e-e91b-45a8-8afb-b4e38c3a5f4c.svg)
+<p align="left"> 
+ ![jas](https://user-images.githubusercontent.com/87306530/177516665-b1b6cb6e-e91b-45a8-8afb-b4e38c3a5f4c.svg)
 ![pyt](https://user-images.githubusercontent.com/87306530/177516757-e7bff91c-0179-473f-acc5-0d6ff37e4992.svg)
 ![jav](https://user-images.githubusercontent.com/87306530/177516828-d8eaea5f-0d15-45f0-9a6c-d0fe808d1660.svg)
 
