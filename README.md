@@ -10,9 +10,10 @@
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"><img src="https://user-images.githubusercontent.com/87306530/177527811-252ebbc9-22b6-43a1-b61d-a3449d719d3b.svg" alt="css3" width="80" height="20"/></a>
 <a href="https://instagram.com/sarojsujit4" target="blank"><img src="https://user-images.githubusercontent.com/87306530/177527305-02d23658-5f14-4f47-8eda-33086df0f4bc.svg" alt="css3" width="80" height="20"/></a>
-<a href="https://www.hackerrank.com/@sujit_saroj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sujit_saroj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ssjit06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ssjit06" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@sujit_saroj" target="blank"><img src="https://user-images.githubusercontent.com/87306530/177527768-a9644a17-6d35-4ae0-86de-fc1d58206a0e.svg" alt="css3" width="80" height="20"/></a>
+<a href="https://www.leetcode.com/ssjit06" target="blank"><img src="https://user-images.githubusercontent.com/87306530/177527751-f4896688-f866-4578-b84e-077dc5cbcc04.svg" alt="css3" width="80" height="20"/></a>
 </p>
 
 <h5 align="left">Languages </h5>
