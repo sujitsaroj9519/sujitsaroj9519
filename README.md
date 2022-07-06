@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sarojsujit4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarojsujit4" height="20" width="70" /></a>
-![gmail](https://user-images.githubusercontent.com/87306530/177514118-12238e88-efe7-4938-9eb2-3c954cf86cdb.png)<a href=
 <a href="https://www.hackerrank.com/@sujit_saroj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sujit_saroj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ssjit06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ssjit06" height="30" width="40" /></a>
 </p>
@@ -19,8 +18,7 @@
 <h3 align="left">Languages </h3>
 <p align="left"> 
 <img src="https://camo.githubusercontent.com/93ad30126f666aec7a720056e5f3c61ad3eebc2e00853a16c425270be20a09ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4a617661736372697074" alt="css3" width="80" height="20"/>
-![pyt](https://user-images.githubusercontent.com/87306530/177516757-e7bff91c-0179-473f-acc5-0d6ff37e4992.svg)
-![jav](https://user-images.githubusercontent.com/87306530/177516828-d8eaea5f-0d15-45f0-9a6c-d0fe808d1660.svg)
+<img src="https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e" alt="css3" width="80" height="20"/>
 
 <h3 align="left>Frontend </h3>
 
